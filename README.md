@@ -1,4 +1,4 @@
-# Learning-How-To-Learn-Reading-List
+# Learning How To Learn Reading List
 ## Education Classics
 * Even the elite universities of today ignore much of the thinking and science of learning. To fully understand learning, it’s important to understand the ideas that created the education system. It will also give you clarity in how the education system has influenced your thinking about learning. This section is influenced by Bloomberg’s series on education thinkers.
   * Jean Piget
