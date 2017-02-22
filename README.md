@@ -10,6 +10,7 @@
   * Maria Montessori
   * Reading Ḥayy Ibn-Yaqẓān(The history about Autodidactism)
   * Sapiens
+  
 ## 70s Education Reformists
 * Introduction
   * John holt
@@ -17,6 +18,7 @@
   * Ivan Illrich
   * Seymour Sarason
   * Frank Smith
+  
 ## Modern Education Reformists
 * Introduction
   * Paul Arthur Kirschner
@@ -32,7 +34,7 @@
   * Daniel 
   * learningspy.co.uk
   * dylanwiliam.org
-## Tech and Learning
+## Tech & Learning
 * Introduction
   * Paul Graham
   * Naval Ravikant
@@ -41,7 +43,8 @@
   * On intelligence
   * The second machine age
   * What technology wants
-## Books on Learning
+  
+## Books On Learning
 * Introduction 
   * How we learn
   * Talent code
@@ -57,7 +60,7 @@
   * The Art of learning
   * Sapiens
   * Moon walking with Einstein
-## Self-organized learning environments
+## Self-organized Learning Environments
 * Introduction 
   * Holborn
   * 21 schools
