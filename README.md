@@ -34,6 +34,7 @@
   * Daniel 
   * learningspy.co.uk
   * dylanwiliam.org
+
 ## Tech & Learning
 * Introduction
   * Paul Graham
@@ -60,6 +61,7 @@
   * The Art of learning
   * Sapiens
   * Moon walking with Einstein
+
 ## Self-organized Learning Environments
 * Introduction 
   * Holborn
@@ -81,5 +83,3 @@
   * Less wrong
   * Free code camp
   * Hacker News
-
-  
